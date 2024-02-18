@@ -1,0 +1,46 @@
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Helvetica, sans-serif;
+    margin: 70px;
+    padding: 30px;
+}
+
+h1 { 
+    font-size: 62px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+.introbox {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+/* Social Icons */
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background: #9fa3aa;
+    color: white;
+}
+
+.aboutme {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.toolkit {
+    display: flex;
+    padding: 10px 10px;
+    text-align: center;
+}
